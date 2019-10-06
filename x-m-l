@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Groups>
+    <group name="a" tour="null" year="null">
+        <structure>
+            <employee name="zcz"/>
+            <employee name="asd"/>
+        </structure>
+        <repertoire>
+            <employee name="1"/>
+            <employee name="2"/>
+            <employee name="3"/>
+        </repertoire>
+    </group>
+    <group name="b" tour="null" year="null">
+        <structure/>
+        <repertoire>
+            <employee name="1"/>
+            <employee name="2"/>
+        </repertoire>
+    </group>
+    <group name="chmp" tour="nikogda" year="vsegda\">
+        <structure>
+            <employee name="govno"/>
+        </structure>
+        <repertoire>
+            <employee name="aaaaaaaaaaa"/>
+        </repertoire>
+    </group>
+</Groups>
