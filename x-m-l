@@ -18,12 +18,12 @@
             <employee name="2"/>
         </repertoire>
     </group>
-    <group name="chmp" tour="nikogda" year="vsegda\">
+    <group name="c" tour="null" year="null">
         <structure>
-            <employee name="govno"/>
+            <employee name="pidor"/>
         </structure>
         <repertoire>
-            <employee name="aaaaaaaaaaa"/>
+            <employee name="1"/>
         </repertoire>
     </group>
 </Groups>
